@@ -24,3 +24,8 @@ img {
   object-fit: cover;
   object-position: center;
 }
+.home {
+  font-size: 22px;
+  color: white;
+  font-weight: bold;
+}
