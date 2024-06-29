@@ -1,6 +1,7 @@
 body {
   background-color: green;
   font-family: cursive;
+  text-align: center;
 }
 h1 {
   color: white;
@@ -16,4 +17,10 @@ h3 {
 }
 a {
   text-decoration: none;
+}
+img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center;
 }
